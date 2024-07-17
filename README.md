@@ -11,7 +11,7 @@
 
 Project : Sentiment Analysis of Tweets
 
-**Objective **
+**Objective**
 The objective of this project is to perform sentiment analysis on a dataset of tweets from Twitter, focusing on recognizing and classifying the sentiment as positive, negative, or neutral. It addresses a specific NLP problem using natural language processing and machine learning techniques. The goal is to gain insights into Twitter users' sentiments and provide meaningful interpretations of the data.
 
 **Key Activities**
