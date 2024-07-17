@@ -11,7 +11,7 @@ Mentor   :NEELA SANTOSH KUMAR
 Project : Sentiment Analysis of Tweets
 
 **Objective **
-The objective of the project is to perform the sentiment analysis on the dataset of the Tweets on Twitter.The task is to working on the specific NLP problem like a sentiment analysis or text classification So,I have done the project on the recognition of sentiment from the tweets.
+The objective of this project is to perform sentiment analysis on a dataset of tweets from Twitter, focusing on recognizing and classifying the sentiment as positive, negative, or neutral. It addresses a specific NLP problem using natural language processing and machine learning techniques. The goal is to gain insights into Twitter users' sentiments and provide meaningful interpretations of the data.
 
 **Key Activities**
 1. **Dataset Cleaning**:
